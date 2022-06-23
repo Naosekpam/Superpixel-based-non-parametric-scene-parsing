@@ -2,7 +2,7 @@
 
 Scene parsing refers to the task of labeling every pixel in an image with the class label it belongs to. In this paper, we propose a novel scalable non-parametric scene parsing system based on superpixels correspondence. The non-parametric approach requires almost no training and can scale up to datasets with thousands of labels. This involves retrieving a set of images similar to the query image, followed by superpixel matching of the query image with the retrieval set. Finally, our system warps the annotation results of superpixel matching, and integrates multiple cues in a Markov Random Field (MRF) to obtain an accurate segmentation of the query image. Our non-parametric scene parsing achieves promising results on the LabelMe Outdoor dataset. The system has limited parameters, and captures contextual information naturally in the retrieval and alignment procedure.
 
-Please cite the following papers if code or part of the code is used :
+### Please cite the following papers if code or part of the code is used :
 
 @inproceedings{naosekpam2019superpixel,
   title={Superpixel Correspondence for Non-parametric Scene Parsing of Natural Images},
