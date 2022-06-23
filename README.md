@@ -11,14 +11,26 @@ Scene parsing refers to the task of labeling every pixel in an image with the cl
   pages={614--622},
   year={2019},
   organization={Springer}
-}
+} 
+
+or
+
+Naosekpam, Veronica, Alexy Bhowmick, and Shyamanta M. Hazarika. "Superpixel Correspondence for Non-parametric Scene Parsing of Natural Images." International Conference on Pattern Recognition and Machine Intelligence. Springer, Cham, 2019.
+
+#### And
 
 @inproceedings{naosekpam2019dense,
-  title={Dense and Partial Correspondence in Non-parametric Scene Parsing},
+title={Dense and Partial Correspondence in Non-parametric Scene Parsing},
   author={Naosekpam, Veronica and Paul, Nissi and Bhowmick, Alexy},
   booktitle={International Conference on Machine Intelligence and Signal Processing},
   pages={339--350},
   year={2019},
   organization={Springer}
 }
+
+or 
+
+Naosekpam, Veronica, Nissi Paul, and Alexy Bhowmick. "Dense and Partial Correspondence in Non-parametric Scene Parsing." International Conference on Machine Intelligence and Signal Processing. Springer, Singapore, 2019.
+
+
 
