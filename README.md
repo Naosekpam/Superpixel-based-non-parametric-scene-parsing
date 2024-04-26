@@ -8,13 +8,13 @@ Scene parsing refers to the task of labeling every pixel in an image with the cl
 This repository requires VLFeat library. Kindly down load it from https://www.vlfeat.org/install-matlab.html
 ### Please cite the following papers if code or part of the code is used :
 ```
-@inproceedings{naosekpam2019superpixel, <br />
-  title={Superpixel Correspondence for Non-parametric Scene Parsing of Natural Images},<br />
-  author={Naosekpam, Veronica and Bhowmick, Alexy and Hazarika, Shyamanta M},<br />
-  booktitle={International Conference on Pattern Recognition and Machine Intelligence},<br />
-  pages={614--622},<br />
-  year={2019},<br />
-  organization={Springer}<br />
+@inproceedings{naosekpam2019superpixel,
+  title={Superpixel Correspondence for Non-parametric Scene Parsing of Natural Images},
+  author={Naosekpam, Veronica and Bhowmick, Alexy and Hazarika, Shyamanta M},
+  booktitle={International Conference on Pattern Recognition and Machine Intelligence},
+  pages={614--622},
+  year={2019},
+  organization={Springer}
 } 
 ```
 or
